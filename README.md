@@ -95,14 +95,6 @@ print(public_url)
 
 ---
 
-## 📬 Contact
-
-For demo access or queries, reach out to **Noor Ahamed**
-📧 [noorahamedv98@gmail.com](mailto:noorahamedv98@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/noor-ahamed-vempalle/) | [Portfolio](https://noorahamedv.netlify.app/) | [GitHub](https://github.com/noorahamedv)
-
----
-
 ## 📎 Live Demo
 
-> ✅ **Live Demo Available on Request (ngrok)** or via **Streamlit Community Cloud (coming soon)**
+
